@@ -17,7 +17,7 @@ The original repo for the Rust client provided by the course staff is available 
 
 # Project Overview
 ## The Extended TFTP Protocol
-The TFTP server is a file transfer protocol allowing multiple users to upload and download files from the server and announce when files are added or deleted to the server. The communication between the server and the client(s) will be performed using a binary communication protocol, which will support the upload, download, and lookup of files.
+The TFTP server is a file transfer protocol allowing multiple users to upload and download files from the server and announce when files are added or deleted to the server. The communication between the server and the client(s) is be performed using a binary communication protocol, which support the upload, download, and lookup of files.
 
 ## The Protocol Features
 - **User Authentication**: Users can log in to the server by providing a username that uniuqly identifies them, and log out at the end of use.
