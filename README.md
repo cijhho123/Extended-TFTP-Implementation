@@ -1,5 +1,5 @@
 # Extended TFTP Implementation
-BGU SPL course 3rd assignment. Written in Java and build with Maven. 
+BGU System Programming (SPL) 3rd assignment. Written in Java and build with Maven. 
 
 This is an implementation [extended TFTP protocol](https://en.wikipedia.org/wiki/Trivial_File_Transfer_Protocol) (Trivial File Transfer Protocol)  and an implementation of a server that utilize the protocol for bi-directional file transfer between a server and multiple clients.
 
