@@ -61,7 +61,7 @@ The clients can interact with the server with following commands:
 
 - **ACK**: used to acknowledge different packets, send to the sender after every packet is received. (and between data packets for a large file)
 
--**BCAST**: used to notify all logged-in clients that a file was deleted/added. This is a Server to client message only.
+- **BCAST**: used to notify all logged-in clients that a file was deleted/added. This is a Server to client message only.
 
 - **ERROR** sent in case some error have occoured. list of errors:
   
