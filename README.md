@@ -71,6 +71,6 @@ The clients can interact with the server with following commands:
 Is available [here](SPL241__Assignment_3_instructions_v1.7.pdf) at pages 12-13
 
 ## System Requirements
-- Java installed on your machine
+- Java 
 - Maven version 3.6.3 or later
-- Stable internet connection (In case the project is being used between two machines)
+- Stable internet connection (or LAN connection)
